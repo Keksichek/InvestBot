@@ -1,1 +1,1 @@
-# WeatherBot
+# InvestBot
